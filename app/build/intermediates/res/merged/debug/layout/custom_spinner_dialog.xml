@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp"
+    tools:context=".Select_Mode" >
+
+    <TextView
+        android:id="@+id/txtheader"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="15dp"
+        android:text="Cinsiyet Seç"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textSize="18dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@android:color/black" />
+
+   
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+            android:layout_marginTop="15dp">
+
+        
+
+            <ListView
+                android:id="@+id/spinnerlist"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:divider="@android:color/black"
+                android:padding="10dp"
+                android:listSelector="@android:color/transparent"
+                android:dividerHeight="1dp" >
+            </ListView>
+            
+
+    </LinearLayout>
+
+</LinearLayout>

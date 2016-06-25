@@ -1,0 +1,79 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:clickable="false"
+    android:descendantFocusability="blocksDescendants"
+    android:focusable="false"
+    android:focusableInTouchMode="false"
+    android:orientation="horizontal"
+    android:padding="5dp"
+    android:paddingTop="2dp"
+    tools:context="tex.change.LoginActivity"
+    tools:ignore="MergeRootFrame" >
+
+ 
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="2dp"
+        android:layout_weight="0.4"
+        android:gravity="center|top"
+        android:orientation="vertical" >
+
+        <terfi.quiz.challenge.view.RoundedImageView
+            android:id="@+id/img"
+            android:layout_width="70dp"
+            android:layout_height="70dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="5dp"
+        android:layout_weight="1"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/txtusername"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Title"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/White"
+            android:textSize="22dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/txtxp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Xp : 50"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textColor="@color/White"
+            android:textSize="16dp"
+            android:textStyle="normal" />
+    
+
+           <Button
+            android:id="@+id/btnstartnewchallenge"
+            style="@style/ButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/greenbutton"
+            android:drawableRight="@android:drawable/ic_media_play"
+            android:gravity="center"
+            android:layout_margin="3dp"
+             android:layout_gravity="center"
+            android:padding="10dp"
+            android:text="Meydan oku"
+            android:textColor="@android:color/white" />
+        
+    </LinearLayout>
+    
+
+</LinearLayout>

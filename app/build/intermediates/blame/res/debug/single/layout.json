@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_new_game_loading.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_new_game_loading.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/custom_camera.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/custom_camera.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/history_row.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/history_row.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/fragment_list_views.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/fragment_list_views.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/list_item_default.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/list_item_default.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/custom_spinner_dialog.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/custom_spinner_dialog.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_timer_questions.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_timer_questions.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_fb_login.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_fb_login.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/user_row.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/user_row.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/spinner_item.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/spinner_item.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/list_header.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/list_header.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_category.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_category.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/challenege_row.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/challenege_row.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/header_navigation_drawer_1.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/header_navigation_drawer_1.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/leaderboard_row.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/leaderboard_row.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/fragment_home.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/opponentuser.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/opponentuser.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/list_view.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/list_view.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/restpass_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/restpass_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_score.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_score.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/custom_dialog_entername.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/custom_dialog_entername.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/category_row.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/category_row.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_profile.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_profile.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/list_view_item_navigation_drawer_1.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/list_view_item_navigation_drawer_1.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_leaderboard.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_leaderboard.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_end_game.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_end_game.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/fragment_profile.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_check_profile.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_check_profile.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/selfuser.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/selfuser.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/header_navigation_drawer_3.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/header_navigation_drawer_3.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_register.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/activity_select__opponent.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/activity_select__opponent.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/layout/toolbar.xml"
+    }
+]

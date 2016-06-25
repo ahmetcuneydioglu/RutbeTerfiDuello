@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="fb_app_id">1112638635464072</string>
+    <string name="app_name">Rütbe Terfi</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- Navigation Drawer icon fontello code -->
+
+    <string name="drawer_icon_home">&#59392;</string>
+    <string name="drawer_icon_topics">&#59395;</string>
+    <string name="drawer_icon_leaderboard">&#59394;</string>
+    <string name="drawer_icon_history">&#59398;</string>
+    <string name="drawer_icon_setting">&#59396;</string>
+    <string name="drawer_icon_logout">&#59399;</string>
+    <string name="drawer_icon_share">&#59393;</string>
+
+    <!-- Navigation Drawer icon titles -->
+    <string name="drawer_title_splash_screens">Rütbe Terfi</string>
+    <string name="drawer_title_home">Anasayfa</string>
+    <string name="drawer_title_topics">Konular</string>
+    <string name="drawer_title_Leaderboard">Lider Tahtası</string>
+    <string name="drawer_title_sent">Gönderilen Düellolar</string>
+    <string name="drawer_title_history">Geçmiş</string>
+    <string name="drawer_title_share">Paylaş</string>
+    <string name="drawer_title_logout">Çıkış</string>
+    <string name="title_activity_splash_screen">Rütbe Terfi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_fb_login">Rütbe Terfi</string>
+    <string name="title_activity_register">Rütbe Terfi</string>
+    <string name="title_activity_login">Rütbe Terfi</string>
+    <string name="title_activity_timer_questions">Rütbe Terfi</string>
+    <string name="title_activity_profile">Rütbe Terfi</string>
+    <string name="title_activity_select__opponent">Rakip Seç</string>
+    <string name="title_activity_check_profile">Profil</string>
+
+</resources>

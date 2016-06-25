@@ -1,0 +1,709 @@
+[
+    {
+        "outputFile": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 6,
+                    "endColumn": 12,
+                    "endOffset": 380
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 5253,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 5582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 385,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 590
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 5590,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 5797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 595,
+                    "endLine": 13,
+                    "endColumn": 12,
+                    "endOffset": 827
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 4354,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 832,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1071
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 6031,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 6273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1076,
+                    "endLine": 21,
+                    "endColumn": 12,
+                    "endOffset": 1336
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4597,
+                        "endLine": 97,
+                        "endColumn": 12,
+                        "endOffset": 4860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1341,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1617
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 118,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1622,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 2015
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1755,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2020,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 2235
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 5805,
+                        "endLine": 119,
+                        "endColumn": 12,
+                        "endOffset": 6023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2240,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 2612
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 4868,
+                        "endLine": 104,
+                        "endColumn": 12,
+                        "endOffset": 5245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2617,
+                    "endLine": 46,
+                    "endColumn": 12,
+                    "endOffset": 2758
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2162,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2763,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 3177
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 704
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3182,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 3602
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 709,
+                        "endLine": 15,
+                        "endColumn": 12,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3607,
+                    "endLine": 64,
+                    "endColumn": 12,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endLine": 70,
+                    "endColumn": 12,
+                    "endOffset": 4456
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1562,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4461,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 4883
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1988,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 2410
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 4888,
+                    "endLine": 82,
+                    "endColumn": 12,
+                    "endOffset": 5308
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 2415,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 2835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5313,
+                    "endColumn": 88,
+                    "endOffset": 5397
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 3070,
+                        "endColumn": 88,
+                        "endOffset": 3154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5402,
+                    "endColumn": 100,
+                    "endOffset": 5498
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3159,
+                        "endColumn": 100,
+                        "endOffset": 3255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5503,
+                    "endLine": 89,
+                    "endColumn": 12,
+                    "endOffset": 5906
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3260,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 5911,
+                    "endLine": 94,
+                    "endColumn": 12,
+                    "endOffset": 6326
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3668,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 4083
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6331,
+                    "endLine": 96,
+                    "endColumn": 12,
+                    "endOffset": 6433
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 4318,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 4420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6438,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 6562
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 4425,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 4549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 6567,
+                    "endLine": 110,
+                    "endColumn": 12,
+                    "endOffset": 7314
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 7319,
+                    "endLine": 116,
+                    "endColumn": 12,
+                    "endOffset": 7669
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 6329,
+                        "endLine": 132,
+                        "endColumn": 12,
+                        "endOffset": 6684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 7674,
+                    "endLine": 129,
+                    "endColumn": 12,
+                    "endOffset": 8348
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 3621,
+                        "endLine": 86,
+                        "endColumn": 12,
+                        "endOffset": 4307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 8353,
+                    "endLine": 138,
+                    "endColumn": 12,
+                    "endOffset": 8851
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2351,
+                        "endLine": 54,
+                        "endColumn": 12,
+                        "endOffset": 2857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 139,
+                    "startColumn": 4,
+                    "startOffset": 8856,
+                    "endLine": 148,
+                    "endColumn": 12,
+                    "endOffset": 9417
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 5,
+                        "startOffset": 411,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 149,
+                    "startColumn": 4,
+                    "startOffset": 9422,
+                    "endColumn": 70,
+                    "endOffset": 9488
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 4784,
+                        "endColumn": 70,
+                        "endOffset": 4850
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 150,
+                    "startColumn": 4,
+                    "startOffset": 9493,
+                    "endColumn": 82,
+                    "endOffset": 9571
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4855,
+                        "endColumn": 82,
+                        "endOffset": 4933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 151,
+                    "startColumn": 4,
+                    "startOffset": 9576,
+                    "endLine": 201,
+                    "endColumn": 12,
+                    "endOffset": 13279
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 4938,
+                        "endLine": 114,
+                        "endColumn": 12,
+                        "endOffset": 8641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 13284,
+                    "endLine": 253,
+                    "endColumn": 12,
+                    "endOffset": 17127
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 8646,
+                        "endLine": 166,
+                        "endColumn": 12,
+                        "endOffset": 12489
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 17132,
+                    "endColumn": 90,
+                    "endOffset": 17218
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 169,
+                        "startColumn": 4,
+                        "startOffset": 12724,
+                        "endColumn": 90,
+                        "endOffset": 12810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 17223,
+                    "endLine": 267,
+                    "endColumn": 12,
+                    "endOffset": 17829
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 2950,
+                        "endLine": 71,
+                        "endColumn": 12,
+                        "endOffset": 3568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 17834,
+                    "endColumn": 117,
+                    "endOffset": 17947
+                },
+                "from": {
+                    "file": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/res/values-v11/appinvite_styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 117,
+                        "endOffset": 214
+                    }
+                }
+            }
+        ]
+    }
+]

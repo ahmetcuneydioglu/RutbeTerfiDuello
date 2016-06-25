@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:background="@color/White"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@android:color/white"
+        android:fillViewport="true"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:layout_gravity="center"
+            android:background="@color/white_15_percent"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:scrollbarAlwaysDrawVerticalTrack="true" >
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Şifreni Resetle"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:textColor="@color/headercolor" />
+
+            <EditText
+                android:id="@+id/etemail"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:hint="Email adresini gir"
+                android:inputType="textEmailAddress"
+                android:textColor="@android:color/black"
+                android:textColorHint="@android:color/black"
+                android:textSize="20dp"
+                android:textStyle="normal" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom"
+                android:layout_margin="5dp"
+                android:background="@color/white_15_percent"
+                android:orientation="horizontal" >
+
+                <terfi.quiz.challenge.view.MaterialRippleLayout
+                    style="@style/RippleStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="4dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_weight="1"
+                    app:rippleColor="@color/main_color_grey_400" >
+
+                    <TextView
+                        android:id="@+id/txtok"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:padding="10dp"
+                        android:layout_weight="1"
+                        android:background="@drawable/greenbutton"
+                        android:gravity="center"
+                        android:text="Onayla"
+                        android:textColor="@android:color/white"
+                        android:textSize="20dp"
+                        android:textStyle="normal" />
+                </terfi.quiz.challenge.view.MaterialRippleLayout>
+  <terfi.quiz.challenge.view.MaterialRippleLayout
+                    style="@style/RippleStyle"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_margin="4dp"
+                    android:layout_marginRight="3dp"
+                    android:layout_weight="1"
+                    app:rippleColor="@color/main_color_grey_400" >
+                <TextView
+                    android:id="@+id/txtcancel"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:background="@color/headercolor"
+                    android:gravity="center"
+                    android:padding="10dp"
+                    android:text="Kapat"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp"
+                    android:textStyle="normal" />
+                </terfi.quiz.challenge.view.MaterialRippleLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
