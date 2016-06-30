@@ -194,7 +194,7 @@ public class SendChallenegActivity extends AppCompatActivity {
 
 		// Create the interstitial.
 		interstitial = new InterstitialAd(this);
-		interstitial.setAdUnitId("ca-app-pub-3320533451108667~4439313833");
+		interstitial.setAdUnitId("ca-app-pub-3320533451108667/3642284631");
 
 		// Create ad request.
 		AdRequest adRequest1 = new AdRequest.Builder().build();

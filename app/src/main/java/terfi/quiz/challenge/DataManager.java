@@ -23,7 +23,7 @@ public class DataManager {
 
 	public static int addcounter = 7;  // show interstial ads after every 4 questions
 	public static String appurl = "https://play.google.com/store/apps/details?id=terfi.quiz.challenge";
-	public static String admobid = "ca-app-pub-3320533451108667~4439313833";
+	public static String admobid = "ca-app-pub-3320533451108667/1188345833";
 	public static String share = "Rütbe terfi uygulamasını bu adresten indirebilirsiniz : "+appurl;
 
 	public static String username = "";

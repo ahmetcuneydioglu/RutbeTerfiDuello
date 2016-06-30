@@ -117,7 +117,7 @@
         jar="/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="f27748d7a85ca1131781b0d76f432141a27cf044">
+        sha1="b8daee553602442dd0491ef5729ac6ec01d40e2b">
         <dex dex="/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_f53eb9c15c05ced8b921d0f3b71851290a987a37/classes.dex" />
     </item>
     <item
@@ -243,7 +243,7 @@
         jar="/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="23.0.1"
-        sha1="5f0257e4a4f936a0714ee11ac1ed43cdb2628d5e">
+        sha1="b3083ca01c22b7c714b085e8773ec9c4b5beeb73">
         <dex dex="/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_fcc3c4838ed63c2efb075a0ff6a923aeb4acd779/classes.dex" />
     </item>
     <item

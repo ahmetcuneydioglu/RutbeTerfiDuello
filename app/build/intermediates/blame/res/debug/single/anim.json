@@ -1,9 +1,5 @@
 [
     {
-        "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/anim/progressbar.xml",
-        "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/src/main/res/anim/progressbar.xml"
-    },
-    {
         "merged": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
         "source": "/Users/ahmetcuneydioglu/Downloads/FortinQuizChallenge/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/anim/abc_popup_exit.xml"
     },

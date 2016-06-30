@@ -15,7 +15,7 @@ public class GoogleProgress {
 		progress.setCancelable(false);
 		progress.getWindow().setBackgroundDrawable(null);
 
-		progress.setIndeterminateDrawable(context.getResources().getDrawable(R.anim.progressbar));
+		progress.setIndeterminateDrawable(context.getResources().getDrawable(R.drawable.progressbar));
 		
 		return progress;
 	}
